@@ -1,0 +1,7 @@
+Driver used for Firebird:
+    $ go get github.com/cznic/mathutil
+    $ go get github.com/nyarla/go-crypt
+    $ go get github.com/nakagami/firebirdsql
+
+Driver used for PostgreSQL:
+    $ go get github.com/lib/pq
